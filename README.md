@@ -1,2 +1,2 @@
-# DAA-pratical-1-
+# DAA-pratical
 lab pratical 1 
